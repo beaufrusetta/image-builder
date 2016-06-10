@@ -3,7 +3,7 @@
 time=$(date +%Y-%m-%d)
 DIR="$PWD"
 
-./RootStock-NG.sh -c seeed-debian-jessie-iot-v4.1
+./RootStock-NG.sh -c seeed-debian-jessie-iot-v4.4
 
 debian_jessie_seeed_iot="debian-8.5-seeed-iot-armhf-${time}"
 
